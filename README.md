@@ -41,6 +41,12 @@ The core of the app uses the **Quine-McCluskey Algorithm**, a tabular method for
 
 ---
 
+
+## 📱 Download APK
+
+👉 [Download the latest APK](https://github.com/Zuhayer-Tajbid/LogiCare/releases/tag/v1.0.0)
+
+--- 
 ## 📱 Built With
 
 - **Flutter**
